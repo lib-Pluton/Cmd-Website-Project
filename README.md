@@ -3,7 +3,6 @@
 
 ###Tutorial:
 
-1.
 ![](image/tutorial.gif)
 
 
